@@ -1,23 +1,7 @@
 ---
-title: Introduction to Java
+title: 1.1 Introduction to AI and LLMs
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
-
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Introduction to AI and LLMs
+* Video [[Youtube](https://youtu.be/MerY9DBSMp8?si=7_MITs2skLzuTYF4)]
+* Slides [[PDF](https://drive.google.com/file/d/1Towp2NPGCRBmYNGFYb7WvUMFR4XSnGht/view?usp=drive_link)], [[Google Slides](https://docs.google.com/presentation/d/1ZpBJXuuIH_cJbQUXLA4gppgVI6HJbEdOLKQMTkw1Rnw/edit?usp=drive_link)]
