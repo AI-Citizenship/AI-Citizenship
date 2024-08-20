@@ -1,5 +1,5 @@
 ---
-title: Introduction to AI and LLMs
+title: 1.1 Introduction to AI and LLMs
 ---
 Lecture Resources:
 * Recording [[Youtube](https://youtu.be/MerY9DBSMp8?si=7_MITs2skLzuTYF4)]
