@@ -16,7 +16,7 @@ title: 1.1 Introduction to AI and LLMs
 : Pitfalls of AI in Medicine
   : Recording [[Youtube](https://youtu.be/tqB__dwm7PU?si=_WdhTFaE81JOtxnk)]
   : Slides [[PDF](https://drive.google.com/file/d/1KCvSP3TEKJSUgyTWeR7DizQTzFrkr3ne/view?usp=drive_link)], [[Google Slides](https://docs.google.com/presentation/d/1noAA0SyRvTJ7JIKVPPLnY-Fuiy_EimJCGY6ymHbqqTc/edit?usp=drive_link)]
-
+<!-- 
 1.4
 : Intro to LLMs 1: The Basics
   : Recording [[Youtube](https://youtu.be/moA9bXIyMXo?si=QnomEjiXeuszIxOT)]
@@ -31,7 +31,7 @@ title: 1.1 Introduction to AI and LLMs
 : Intro to LLMs 3: Common Pitfalls
   : Recording [[Youtube](https://youtu.be/NOtO8U3gcwQ?si=B4-gD3qiB_VPKq13)]
   : Slides [[PDF](https://drive.google.com/file/d/1vckIbuNweyu1fU1TT3qS0TvMXEOzuKdP/view?usp=drive_link)], [[Google Slides](https://docs.google.com/presentation/d/1mHLuDfgR9gKrmBWaGDMpVQSWvCD1SVdKU9yAJalX1Dc/edit?usp=drive_link)]
-
+-->
 
 <!-- ONE LECTURE PER BOX FORMAT
 ---
