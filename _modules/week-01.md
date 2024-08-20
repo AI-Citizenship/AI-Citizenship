@@ -1,5 +1,5 @@
 ---
-title: Introduction to LLMs
+title: 1.1 Introduction to AI and LLMs
 ---
 
 1.1
