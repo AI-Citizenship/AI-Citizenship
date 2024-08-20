@@ -1,5 +1,5 @@
 ---
-title: Introduction to AI
+title: Introduction to AI and LLMs
 ---
 
 1.1
@@ -21,5 +21,3 @@ title: Introduction to AI
 
 1.5
 : [Common Pitfalls of LLMs](#)
-
-
