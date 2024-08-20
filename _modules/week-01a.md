@@ -1,5 +1,5 @@
 ---
-title: 1.1 Introduction to AI and LLMs
+title: 1.1 Introduction to AI for Medicine
 ---
 
 1.1
