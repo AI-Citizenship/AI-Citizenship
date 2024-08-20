@@ -18,7 +18,12 @@ nav_order: 1
 -->
 
 ---
+<!---
+## About
+-->
+AI Citizenship for Clinicians is an open source medical AI curriculum developed by practicing clinicians and artificial intelligence researchers. Our primary intended audience is medical practicioners (medical students, residents, attendings), whom we hope to empower to be informed users of clinical AI systems so that they may maximize the benefits and minimize the harms associated with this increasingly ubiquitous technology.
 
-AI Citizenship for Clinicians is an open source medical AI curriculum developed by practicing clinicians and artificial intelligence researchers.
-
+<!---
+## About
+-->
 
