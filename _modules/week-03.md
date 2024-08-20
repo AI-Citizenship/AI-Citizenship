@@ -2,5 +2,6 @@
 title: Ethics and Legal Considerations
 ---
 
-Q&A with Prof. I. Glenn Cohen
+3.0
+: Interview with Prof. I. Glenn Cohen
   : Recording [[Youtube](https://www.youtube.com/watch?v=Pnka39jRxb4)]
