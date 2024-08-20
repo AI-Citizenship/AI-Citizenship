@@ -1,5 +1,5 @@
 ---
-title: 1.1 Introduction to Large Language Models
+title: Introduction to Large Language Models
 ---
 
 1.4
