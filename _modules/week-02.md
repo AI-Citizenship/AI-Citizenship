@@ -1,9 +1,9 @@
 ---
-title: Introduction to AI and LLMs
+title: Introduction to LLMs
 ---
 
 1.1
-: Introduction to AI
+: Introduction to AI: Terminology and Basic Principles
   : Recording [[Youtube](https://youtu.be/MerY9DBSMp8?si=7_MITs2skLzuTYF4)]
   : Slides [[PDF](https://drive.google.com/file/d/1Towp2NPGCRBmYNGFYb7WvUMFR4XSnGht/view?usp=drive_link)], [[Google Slides](https://docs.google.com/presentation/d/1ZpBJXuuIH_cJbQUXLA4gppgVI6HJbEdOLKQMTkw1Rnw/edit?usp=drive_link)]
 
@@ -31,3 +31,14 @@ title: Introduction to AI and LLMs
 : Intro to LLMs 3: Common Pitfalls
   : Recording [[Youtube](https://youtu.be/NOtO8U3gcwQ?si=B4-gD3qiB_VPKq13)]
   : Slides [[PDF](https://drive.google.com/file/d/1vckIbuNweyu1fU1TT3qS0TvMXEOzuKdP/view?usp=drive_link)], [[Google Slides](https://docs.google.com/presentation/d/1mHLuDfgR9gKrmBWaGDMpVQSWvCD1SVdKU9yAJalX1Dc/edit?usp=drive_link)]
+
+
+<!-- ONE LECTURE PER BOX FORMAT
+---
+title: 1.1 Introduction to AI and LLMs
+---
+Lecture Resources:
+* Recording [[Youtube](https://youtu.be/MerY9DBSMp8?si=7_MITs2skLzuTYF4)]
+* Slides [[PDF](https://drive.google.com/file/d/1Towp2NPGCRBmYNGFYb7WvUMFR4XSnGht/view?usp=drive_link)], [[Google Slides](https://docs.google.com/presentation/d/1ZpBJXuuIH_cJbQUXLA4gppgVI6HJbEdOLKQMTkw1Rnw/edit?usp=drive_link)]
+
+-->
