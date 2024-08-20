@@ -9,19 +9,20 @@ nav_order: 3
 
 Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
 
-## Instructors
+## Course Directors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
-## Teaching Assistants
+{% assign contributors = site.staffers | where: 'role', 'Contributor' %}
+{% assign num_contributors = contributors | size %}
+{% if num_contributors != 0 %}
 
-{% for staffer in teaching_assistants %}
+## Contributors
+
+{% for staffer in contributors %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
