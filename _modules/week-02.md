@@ -20,4 +20,4 @@ title: Introduction to AI and LLMs
 : [Intro to LLMs 2: Development and Deployment](#)
 
 1.5
-: [Common Pitfalls of LLMs](#)
+: [Pitfalls of LLMs](#)
