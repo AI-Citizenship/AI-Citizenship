@@ -1,9 +1,5 @@
 ---
-name: Really Evil Kevin
-role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+name: Dr. Emily Alsenzter, PhD
+role: Contributor
+photo: emily.jpg
 ---
-
-I like teaching Computer Science!
