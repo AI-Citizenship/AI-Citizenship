@@ -5,7 +5,7 @@ description: About the course
 nav_order: 2
 ---
 
-# About
+# About Us
 {:.no_toc}
 
 <!---
