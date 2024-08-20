@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-description: >-
-    Course policies and information.
+description: About the course
+nav_order: 1
 ---
 
 # About
