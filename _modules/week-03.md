@@ -4,6 +4,6 @@ title: Advanced Topics and Hands-on Sessions
 
 3.0
 : LLM Prompting: Principles and Applications to Medicine
-  : Recording [[](#)]
-  : Slides [[](#), [](#)]
+  : Recording [[Coming Soon](#)]
+  : Slides [[Coming Soon](#), [Coming Soon](#)]
   
